@@ -10,4 +10,4 @@ http://www.cfd-online.com/Forums/ansys-meshing/137006-shared-license-currently-n
 * Specify which method to use and which licenses to use.
 * Specify the licensing method before starting an ANSYS Workbench session. 
 
-** Note: If you access the Licensing Preferences dialog box from the ANSYS Workbench Tools menu, you will not be able to choose a licensing preference from there.
+**Note**: If you access the Licensing Preferences dialog box from the ANSYS Workbench Tools menu, you will not be able to choose a licensing preference from there.
