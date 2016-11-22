@@ -9,4 +9,5 @@ http://www.cfd-online.com/Forums/ansys-meshing/137006-shared-license-currently-n
 * Use the Set License Preferences for User option of the ANSLIC_ADMIN utility
 * Specify which method to use and which licenses to use.
 * Specify the licensing method before starting an ANSYS Workbench session. 
+
 ** Note: If you access the Licensing Preferences dialog box from the ANSYS Workbench Tools menu, you will not be able to choose a licensing preference from there.
