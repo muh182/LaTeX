@@ -6,7 +6,7 @@
 
 ## Use BBL than BIB for the References
 Some journals may use bbl extension derived from bib. For example, for Elsevier, here is how to compile the file and create the bbl file:
-* latex elsarticle
-* bibtex elsarticle
-* latex elsarticle
-* pdflatex elsarticle.tex 
+* `latex elsarticle`
+* `bibtex elsarticle`
+* `latex elsarticle`
+* `pdflatex elsarticle.tex`
