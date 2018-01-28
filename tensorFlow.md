@@ -18,3 +18,4 @@
    * Add to __matplotlib__:
    * Navigate to __matplotlib__ folder in the main user folder: `cd ~/.matplotlib`
    * Open __vi__ and add this file: `backend: TkAgg`
+   * Open vi __matplotlibrc__ and add this file: `backend: TkAgg`
