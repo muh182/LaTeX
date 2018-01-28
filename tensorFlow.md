@@ -2,12 +2,7 @@
 * Install `virtualenv`: `sudo pip install virtualenv`
 * Intall `tensorflow` through `virtualenv`: `virtualenv --system-site-packages ~/tensorflow`
 * Navigate to the `bin` folder: `cd ~/tensorflow/bin`
-
-
->> source activate.csh
-then you should see 
-[tensorflow] /Users/pnd1/tensorflow/bin 90>> 
-
-
-
-showing you are in tensor flow environment
+* Activate tensorFlow: 
+** For TSCH: `source activate.csh`
+** For Bash: `source ./activate`
+* Make sure to see this configuration if the username is `test`: `[tensorflow] /Users/test/tensorflow/bin 90`
