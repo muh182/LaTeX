@@ -24,5 +24,4 @@
    
 ## Installation of jython
 * Install __jythin__: `brew install jython`
-* Set up __jython__: 
-    * [pip install execnet](https://codespeak.net/execnet/example/hybridpython.html)
+* Set up __jython__: [`sudo pip install execnet`](https://codespeak.net/execnet/example/hybridpython.html)
