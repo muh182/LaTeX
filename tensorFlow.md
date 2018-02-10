@@ -21,9 +21,14 @@
    * Navigate to __matplotlib__ folder in the main user folder: `cd ~/.matplotlib`
    * Open __vi__ and add this file: `backend: TkAgg`
    * Open vi __matplotlibrc__ and add this file: `backend: TkAgg`
+* Install __pandas__:
+   * pip install pandas
+   * (In case of errors): pip install --ignore-installed pandas
    
 ## Installation of jython
 * Install __jythin__: `brew install jython`
 * Set up __jython__: [`sudo pip install execnet`](https://codespeak.net/execnet/example/hybridpython.html)
 * In case of using __Homebrow__ and __tcsch__, you need to add jython to the path. For example,
 `` set path = ($path /usr /usr/bin /usr/local/bin /sw/bin /usr/sbin /usr/X11R6/bin /usr/local/homebrew/Cellar/ant/1.10.1/libexec/bin /usr/local/homebrew/Cellar/git/2.15.1_1/bin /usr/local/homebrew/Cellar/scala/2.12.4/bin /usr/X11R6/bin /usr/local/texlive/2017/bin/x86_64-darwin /usr/local/homebrew/Cellar/jython/2.7.1/bin)``
+
+
