@@ -22,8 +22,8 @@
    * Open __vi__ and add this file: `backend: TkAgg`
    * Open vi __matplotlibrc__ and add this file: `backend: TkAgg`
 * Install __pandas__:
-   * pip install pandas
-   * (In case of errors): pip install --ignore-installed pandas
+   * `pip install pandas`
+   * (In case of errors): `pip install --ignore-installed pandas`
    
 ## Installation of jython
 * Install __jythin__: `brew install jython`
