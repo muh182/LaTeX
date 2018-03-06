@@ -31,4 +31,9 @@
 * In case of using __Homebrow__ and __tcsch__, you need to add jython to the path. For example,
 `` set path = ($path /usr /usr/bin /usr/local/bin /sw/bin /usr/sbin /usr/X11R6/bin /usr/local/homebrew/Cellar/ant/1.10.1/libexec/bin /usr/local/homebrew/Cellar/git/2.15.1_1/bin /usr/local/homebrew/Cellar/scala/2.12.4/bin /usr/X11R6/bin /usr/local/texlive/2017/bin/x86_64-darwin /usr/local/homebrew/Cellar/jython/2.7.1/bin)``
 
+## Update TensorFlow
+* Install tensoflow 1.5 `http://www.python36.com/install-tensorflow-using-official-pip-pacakage/`
+
+
+
 
