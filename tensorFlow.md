@@ -35,5 +35,6 @@
 * Install tensoflow 1.5 `http://www.python36.com/install-tensorflow-using-official-pip-pacakage/`
 
 
-
-
+## Deep Learning + Bayesian Reasoning
+* Download the code from here [`https://github.com/thu-ml/zhusuan`] 
+* Run the script `sudo pip install`
