@@ -36,5 +36,5 @@
 
 
 ## Deep Learning + Bayesian Reasoning
-* Download the code from here [`https://github.com/thu-ml/zhusuan`] 
+* Download the code from [here](https://github.com/thu-ml/zhusuan)
 * Run the script `sudo pip install`
