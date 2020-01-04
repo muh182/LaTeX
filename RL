@@ -1,3 +1,2 @@
-Examples:
-
-[Link](https://github.com/openai/gym/wiki/MountainCar-v0)
+# Examples:
+* This is a good starting [example](https://github.com/openai/gym/wiki/MountainCar-v0)
