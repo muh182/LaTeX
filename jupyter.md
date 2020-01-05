@@ -5,3 +5,12 @@
 
 # Open Terminal
 * Type `jupyter notebook` and a new therminal will be opened
+
+# Install Tensorflow
+* Modify the _PATH_ `sudo vi /etc/paths` to add Python 2 version link for _pip_
+* Review the _PATH_ `echo $PATH`
+* Install tensorflow `pip install --user tensorflow==1.6.0`
+* Install _nose_ `pip install --user nose`
+* Install _tornado_ `pip install --user tornado`
+* Install _matplotlib_ `pip install --user matplotlib` (Note: You may need it using _pip3_ `pip3 install matplotlib`)
+* Install _gym_ `pip3 install gym`
