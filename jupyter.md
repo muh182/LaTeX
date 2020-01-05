@@ -7,7 +7,8 @@
 * Type `jupyter notebook` and a new therminal will be opened
 
 # Install Tensorflow
-* Modify the _PATH_ `sudo vi /etc/paths` to add Python 2 version link for _pip_
+* Install _pip_ `python get-pip.py --user` (Note: `get-pip.py` needs to be downloaded)
+* Modify the _PATH_ `sudo vi /etc/paths` to add Python 2 version link for _pip_ (i.e., `/Users/XYZ/Library/Python/2.7/bin` _XYZ_ is the user home directory)
 * Review the _PATH_ `echo $PATH`
 * Install tensorflow `pip install --user tensorflow==1.6.0`
 * Install _nose_ `pip install --user nose`
