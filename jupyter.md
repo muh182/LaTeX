@@ -7,6 +7,11 @@
 * Type `jupyter notebook` and a new therminal will be opened
 
 # Install Tensorflow
+Install tenosrflow with pip3 install tensorflow (Check version 1.15.0)
+then do install pip3 install Jupyter notebook
+
+
+# Install Tensorflow
 * Install _pip_ `python get-pip.py --user` (Note: `get-pip.py` needs to be downloaded)
 * Modify the _PATH_ `sudo vi /etc/paths` to add Python 2 version link for _pip_ (i.e., `/Users/XYZ/Library/Python/2.7/bin` _XYZ_ is the user home directory)
 * Review the _PATH_ `echo $PATH`
