@@ -5,4 +5,4 @@
 
 ### Run EnergyPlus 9.1 Mac on Terminal:
 * `/Applications/EnergyPlus-9-1-0/energyplus-9.1.0 in.idf` 
-* 
+* The file name needs to `in.idf' and the weather data file needs to be in the same folder with the name `in.epw`
