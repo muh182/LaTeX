@@ -37,5 +37,5 @@ import matplotlib
 matplotlib.use('nbagg')
 import matplotlib.pyplot as plt
 ```
-* ![Reference](https://stackoverflow.com/questions/10655217/ipython-notebook-pylab-inline-zooming-of-a-plot)
+* [Reference](https://stackoverflow.com/questions/10655217/ipython-notebook-pylab-inline-zooming-of-a-plot)
 
