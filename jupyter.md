@@ -20,3 +20,14 @@ then do install pip3 install Jupyter notebook
 * Install _tornado_ `pip install --user tornado`
 * Install _matplotlib_ `pip install --user matplotlib` (Note: You may need it using _pip3_ `pip3 install matplotlib`)
 * Install _gym_ `pip3 install gym`
+
+## Enable Plot Zoom In
+* Install `mpld3` with `pip install mpld3`
+* Add this command 
+```
+%matplotlib inline
+import mpld3
+mpld3.enable_notebook()
+```
+* Reference (https://stackoverflow.com/questions/10655217/ipython-notebook-pylab-inline-zooming-of-a-plot)
+
