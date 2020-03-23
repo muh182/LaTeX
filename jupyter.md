@@ -23,6 +23,7 @@ Python 3.7.4 (v3.7.4:e09359112e, Jul  8 2019, 14:54:52)
 * Install _pandas_ `pip3 install pandas`
 * Install _sklearn_ `pip3 install sklearn`
 
+# Usage
 ## Enable Zoom In in a Plot
 ### Option 1
 * Install `mpld3` with `pip install mpld3`
