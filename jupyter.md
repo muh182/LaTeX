@@ -10,12 +10,17 @@
 Install tenosrflow with pip3 install tensorflow (Check version 1.15.0)
 then do install pip3 install Jupyter notebook
 
-
 # Install Tensorflow
-* Install _pip_ `python get-pip.py --user` (Note: `get-pip.py` needs to be downloaded)
-* Modify the _PATH_ `sudo vi /etc/paths` to add Python 2 version link for _pip_ (i.e., `/Users/XYZ/Library/Python/2.7/bin` _XYZ_ is the user home directory)
-* Review the _PATH_ `echo $PATH`
-* Install tensorflow `pip install --user tensorflow==1.6.0`
+* Install tensorflow `pip3 install "tensorflow>=1.15,<2.0"`
+* Test tensorflow with 
+```
+>> % python3
+>> Python 3.7.4 (v3.7.4:e09359112e, Jul  8 2019, 14:54:52) 
+>>> % import tensorflow as tf
+>>> % print(tf.__version__)
+1.15.2
+>>> 
+```
 * Install _nose_ `pip install --user nose`
 * Install _tornado_ `pip install --user tornado`
 * Install _matplotlib_ `pip install --user matplotlib` (Note: You may need it using _pip3_ `pip3 install matplotlib`)
