@@ -1,17 +1,13 @@
 # Installation
 * Install python 3.7.14 from this [link](https://www.python.org/downloads/release/python-374/) (Note: There might be issues with the newer python versions)
-* Use _pip3_ to install jupyterlab (Note: _pip3_ is shipped with python)
+* Use _pip3_ to install jupyterlab and other packages (Note: _pip3_ is shipped with python)
 * Type `pip3 install jupyterlab` (Note: The installation should start)
 
 # Open Terminal
 * Type `jupyter notebook` and a new therminal will be opened
 
 # Install Tensorflow
-Install tenosrflow with pip3 install tensorflow (Check version 1.15.0)
-then do install pip3 install Jupyter notebook
-
-# Install Tensorflow
-* Install tensorflow `pip3 install "tensorflow>=1.15,<2.0"`
+* Install tensorflow `pip3 install "tensorflow>=1.15,<2.0"` (Older version 1.15.2 and not version 2)
 * Test tensorflow with 
 ```
 >> % python3
@@ -21,6 +17,9 @@ Python 3.7.4 (v3.7.4:e09359112e, Jul  8 2019, 14:54:52)
 1.15.2
 >>> 
 ```
+* Install `pip3 install Jupyter notebook`
+
+
 * Install _nose_ `pip install --user nose`
 * Install _tornado_ `pip install --user tornado`
 * Install _matplotlib_ `pip install --user matplotlib` (Note: You may need it using _pip3_ `pip3 install matplotlib`)
