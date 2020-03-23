@@ -15,7 +15,7 @@ then do install pip3 install Jupyter notebook
 * Test tensorflow with 
 ```
 >> % python3
->> Python 3.7.4 (v3.7.4:e09359112e, Jul  8 2019, 14:54:52) 
+Python 3.7.4 (v3.7.4:e09359112e, Jul  8 2019, 14:54:52) 
 >>> % import tensorflow as tf
 >>> % print(tf.__version__)
 1.15.2
