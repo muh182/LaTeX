@@ -21,7 +21,7 @@ then do install pip3 install Jupyter notebook
 * Install _matplotlib_ `pip install --user matplotlib` (Note: You may need it using _pip3_ `pip3 install matplotlib`)
 * Install _gym_ `pip3 install gym`
 
-## Enable Plot Zoom In
+## Enable Zoom In in a Plot
 * Install `mpld3` with `pip install mpld3`
 * Add this command 
 ```
@@ -29,5 +29,5 @@ then do install pip3 install Jupyter notebook
 import mpld3
 mpld3.enable_notebook()
 ```
-* Reference (https://stackoverflow.com/questions/10655217/ipython-notebook-pylab-inline-zooming-of-a-plot)
+* Reference ![https://stackoverflow.com/questions/10655217/ipython-notebook-pylab-inline-zooming-of-a-plot)]
 
