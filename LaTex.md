@@ -2,6 +2,7 @@
 ### Mac
 * Install MacTex from [here](http://www.tug.org/mactex/mactex-download.html)
 
+### Windows
 
 * When I started working with `Tex Live` in Windows, I have realized how difficult is to get additional information about the process of adding a new package to the `Tex Live` in Windows. I use `TeXStudio` for the user interface. 
 
