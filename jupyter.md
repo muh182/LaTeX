@@ -1,11 +1,11 @@
 # Installation Process
 ## Installation Python
 * Install python 3.7.14 from this [link](https://www.python.org/downloads/release/python-374/) (Note: There might be issues with the newer python versions)
-* Use _pip3_ to install jupyterlab and other packages (Note: _pip3_ is shipped with python)
+* Use _pip3_ to install jupyterlab and all other packages (Note: _pip3_ is shipped with python)
 
 ## Install Jupyterlab
-* Type `pip3 install jupyterlab` (Note: The installation should start)
-* Type `jupyter notebook` and a new therminal will be opened to test it
+* Install _jupyterlab_ `pip3 install jupyterlab` (Note: The installation should start)
+* Test the installation with typing `jupyter notebook` (A new therminal will be opened)
 
 ## Install Tensorflow
 * Install tensorflow `pip3 install "tensorflow>=1.15,<2.0"` (Older version 1.15.2 and not version 2)
