@@ -1,6 +1,6 @@
 # Build Environments - Mac (2020)
-* Follow the instructions [here](https://github.com/NREL/OpenStudio/wiki/Configuring-OpenStudio-Build-Environments)
-* Install CMake [here](https://cmake.org/download/). Make sure to see the terminal installation
+* Follow the instructions [here](https://github.com/NREL/OpenStudio/wiki/Configuring-OpenStudio-Build-Environments). The `CMake` version specific is not compatible for symlinks in newer OS. The steps specified [here](https://stackoverflow.com/questions/30668601/installing-cmake-command-line-tools-on-a-mac) do not work. Please follow the next step. 
+* Install CMake [here](https://cmake.org/download/).
 * Configure the build with typing `cmake ..` in the `build` folder
 * You may need to install `conan`. You can use `pip install conan`. There are good instructions [here](https://docs.conan.io/en/latest/installation.html)
 
