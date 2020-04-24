@@ -2,6 +2,7 @@
 * Follow the instructions [here](https://github.com/NREL/OpenStudio/wiki/Configuring-OpenStudio-Build-Environments)
 * Install CMake [here](https://cmake.org/download/). Make sure to see the terminal installation
 * Configure the build with typing `cmake ..` in the `build` folder
+* You may need to install `conan`. You can use `pip install conan`. There are good instructions [here](https://docs.conan.io/en/latest/installation.html)
 
 
 # Build Environments (2019)
